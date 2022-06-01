@@ -30,26 +30,26 @@ background-color: white;
   
 }
 #mug1{
-background-image: url(/assets/images/mug1.jpg);
+background-image: url(./assets/images/mug1.jpg);
     background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 }
 
 #mug2{
-background-image: url(/assets/images/mug2.jpg);
+background-image: url(./assets/images/mug2.jpg);
 background-position: center; 
 background-repeat: no-repeat; 
 background-size: cover;
 }
 #mug3{
-background-image: url(/assets/images/mug5.jpg);
+background-image: url(./assets/images/mug5.jpg);
 background-position: center; 
 background-repeat: no-repeat; 
 background-size: cover;
 }
 #mug4{
-background-image: url(/assets/images/mug7.jpg);
+background-image: url(./assets/images/mug7.jpg);
 background-position: center; 
 background-repeat: no-repeat; 
 background-size: cover;
