@@ -201,6 +201,7 @@ margin-top:50px;
 }
 a {
 font-family: Roboto;
+text-decoration: none;
  
 }
 .blog-card-blog {
@@ -291,6 +292,7 @@ p {
 a:hover{
 color: #5894c6;
 }
+
 .reserve{
     height: 200px;
     position: relative;
