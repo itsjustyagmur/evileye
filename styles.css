@@ -289,6 +289,9 @@ p {
     float: right;
     line-height: 30px;
 }
+a{
+  text-decoration: none;
+}
 a:hover{
 color: #5894c6;
 }
